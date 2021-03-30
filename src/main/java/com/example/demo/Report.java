@@ -13,6 +13,8 @@ public class Report {
 
     @EqualsAndHashCode.Include
     private String email;
+
+
     @EqualsAndHashCode.Exclude
     private String lastname;
     @EqualsAndHashCode.Exclude

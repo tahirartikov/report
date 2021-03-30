@@ -17,6 +17,7 @@ public class Report {
 
     @EqualsAndHashCode.Exclude
     private String lastname;
+
     @EqualsAndHashCode.Exclude
     private String firstname;
     @EqualsAndHashCode.Exclude

@@ -23,6 +23,8 @@ public class Report {
 
     @EqualsAndHashCode.Exclude
     private String city;
+
+
     @EqualsAndHashCode.Exclude
     private String province;
     @EqualsAndHashCode.Exclude

@@ -20,6 +20,7 @@ public class Report {
 
     @EqualsAndHashCode.Exclude
     private String firstname;
+
     @EqualsAndHashCode.Exclude
     private String city;
     @EqualsAndHashCode.Exclude
